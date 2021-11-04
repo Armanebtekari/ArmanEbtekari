@@ -5,6 +5,7 @@
 - Follow me🙏
 <!--
 **ArmanEbtekari/ArmanEbtekari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+composer req paxal/stats-table
 
 Here are some ideas to get you started:
 
