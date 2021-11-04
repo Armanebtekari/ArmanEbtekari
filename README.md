@@ -6,6 +6,14 @@
 <!--
 **ArmanEbtekari/ArmanEbtekari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 composer req paxal/stats-table
+use IgraalOSL\StatsTable\StatsTable;
+
+$data = [
+    ['date' => '2014-01-01', 'hits' => 32500],
+    ['date' => '2014-01-02', 'hits' => 48650],
+];
+$headers = ['date' => 'Date', 'hits' => 'Number of hits'];
+$statsTable = new StatsTable($data, $headers);
 
 Here are some ideas to get you started:
 
