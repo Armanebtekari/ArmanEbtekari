@@ -14,6 +14,14 @@ $data = [
 ];
 $headers = ['date' => 'Date', 'hits' => 'Number of hits'];
 $statsTable = new StatsTable($data, $headers);
+use IgraalOSL\StatsTable\Dumper\Excel\ExcelDumper;
+
+$excelDumper = new ExcelDumper();
+$excelContents = $excelDumper->dump($statsTable);
+
+header('Content-type: application/vnd.ms-excel');
+echo $excelContents
+
 
 Here are some ideas to get you started:
 
