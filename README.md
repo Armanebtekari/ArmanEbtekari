@@ -5,15 +5,21 @@
 - Follow me🙏
 <!--
 **ArmanEbtekari/ArmanEbtekari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-composer req paxal/stats-table
-use IgraalOSL\StatsTable\StatsTable;
+use IgraalOSL\StatsTable\StatsTableBuilder;
 
 $data = [
-    ['date' => '2014-01-01', 'hits' => 32500],
-    ['date' => '2014-01-02', 'hits' => 48650],
+    '2014-01-01' => ['hits' => 32500],
+    '2014-01-02' => ['hits' => 48650],
 ];
-$headers = ['date' => 'Date', 'hits' => 'Number of hits'];
-$statsTable = new StatsTable($data, $headers);
+
+$statsTableBuilder = new StatsTableBuilder(
+    $data,
+    ['hits' => 'Number of hits']
+);
+$statsTableBuilder->addIndexesAsColumn('date', 'Date');
+
+$statsTable = $statsTableBuilder->build();
+
 use IgraalOSL\StatsTable\Dumper\Excel\ExcelDumper;
 
 $excelDumper = new ExcelDumper();
