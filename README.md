@@ -3,6 +3,8 @@
 - I want to be a web developer and game maker in the future:cowboy_hat_face:	
 - my gmail armanebtekari@gmail.com:wink:
 - Follow me🙏
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ArmanEbtekari/ArmanEbtekari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 use IgraalOSL\StatsTable\StatsTableBuilder;
