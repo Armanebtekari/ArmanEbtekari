@@ -3,12 +3,12 @@
 - I want to be a web developer and game maker in the future:cowboy_hat_face:	
 - my gmail armanebtekari7@gmail.com:wink:
 - Follow me🙏
+- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 <!--
 **ArmanEbtekari/ArmanEbtekari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 use IgraalOSL\StatsTable\StatsTableBuilder;
 Here are some ideas to get you started:
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
