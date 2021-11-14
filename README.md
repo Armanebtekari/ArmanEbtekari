@@ -19,4 +19,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmanEbtekari)](https://github.com/ArmanEbtekari/github-readme-stats)
- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (https://github.com/ArmanEbtekari/github-readme-stats)
