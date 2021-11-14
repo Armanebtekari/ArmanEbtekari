@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmanEbtekari)](https://github.com/ArmanEbtekari/Customizing/github-readme-stats)
+--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmanEbtekari)](https://github.com/ArmanEbtekari&theme=dark&show_icons=true))
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanEbtekari)](https://github.com/ArmanEbtekari/github-readme-stats)
