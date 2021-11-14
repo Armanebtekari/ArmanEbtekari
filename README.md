@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmanEbtekari)](https://github.com/ArmanEbtekari&theme=dark&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmanEbtekari&theme=dark&show_icons=true)](https://github.com/ArmanEbtekari/github-readme-stats)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanEbtekari)](https://github.com/ArmanEbtekari/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanEbtekari&theme=dark&show_icons=true)](https://github.com/ArmanEbtekari/github-readme-stats)
