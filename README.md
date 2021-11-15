@@ -4,9 +4,9 @@
 - my gmail armanebtekari7@gmail.com:wink:
 - Follow me🙏
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArmanEbtekari&gotham)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArmanEbtekarigotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanEbtekari&gotham)](https://github.com/ArmanEbtekari/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanEbtekarigotham)](https://github.com/ArmanEbtekari/github-readme-stats)
 <!--
 **ArmanEbtekari/ArmanEbtekari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 use IgraalOSL\StatsTable\StatsTableBuilder;
