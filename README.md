@@ -3,8 +3,8 @@
 - I want to be a web developer and game maker in the future:cowboy_hat_face:	
 - my gmail armanebtekari7@gmail.com:wink:
 - Follow me🙏
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arman_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+- 
+<img src="https://github-readme-stats.vercel.app/api?username=Anish-Shobith&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanEbtekari&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ArmanEbtekari/github-readme-stats)
 <!--
