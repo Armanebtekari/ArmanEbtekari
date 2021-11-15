@@ -4,7 +4,7 @@
 - my gmail armanebtekari7@gmail.com:wink:
 - Follow me🙏
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArmanEbtekarigotham)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArmanEbtekari&theme=gotham&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanEbtekari&theme=gotham&show_icons=true)](https://github.com/ArmanEbtekari/github-readme-stats)
 <!--
