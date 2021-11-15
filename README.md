@@ -4,12 +4,11 @@
 - my gmail armanebtekari7@gmail.com:wink:
 - Follow me🙏
 - 
-<img src="https://github-readme-stats.vercel.app/api?username=ArmanEbtekari&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArmanEbtekari&hide_border=true&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanEbtekari&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ArmanEbtekari/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanEbtekari&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ArmanEbtekari/github-readme-stats&hide_border=true&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <!--
 **ArmanEbtekari/ArmanEbtekari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 use IgraalOSL\StatsTable\StatsTableBuilder;
