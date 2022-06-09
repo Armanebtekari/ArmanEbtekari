@@ -1,6 +1,6 @@
  Hi Im Arman Ebtekari:wave:
-- I love making games and building sites:smiley:
-- I want to be a web developer and game maker in the future:cowboy_hat_face:	
+- I love building sites:smiley:
+- I want to be a web developer:cowboy_hat_face:	
 - my Gmail armanebtekari7@gmail.com:wink:
 - Follow me🙏
 
