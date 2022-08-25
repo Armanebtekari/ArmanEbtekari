@@ -3,7 +3,7 @@
 
 - Im *Arman* ! :smiley: <br>
 - Im Web Developer:wink: <br>
-- Im *Intrested* in **solving problems** and dealing with **Vulnerabilities**. :heart: <br>
+- If you like my projects, please star:heart:🙏 <br>
 - Feel Free For Asking Questions :kissing_heart: <br>
 - You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 
