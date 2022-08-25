@@ -1,8 +1,8 @@
 <h1 align='center'> Hi there 👋, I'm Arman Ebtekari  👨‍💻</h1>
 
 
-- Im *Arman* ! :smiley: <br>
-- Im Web Developer:wink: <br>
+- I'm *Arman* ! :smiley: <br>
+- I'm Web Developer:wink: <br>
 - If you like my projects, please stars 🌟🙏 <br>
 - Feel Free For Asking Questions :kissing_heart: <br>
 - You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
