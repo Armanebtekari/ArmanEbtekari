@@ -6,6 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArmanEbtekari&hide_border=true&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 <!--
 **ArmanEbtekari/ArmanEbtekari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
