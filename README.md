@@ -5,13 +5,12 @@
 - Follow me🙏
 
 <img src="https://github-readme-stats.vercel.app/api?username=ArmanEbtekari&hide_border=true&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanEbtekari&hide_border=true&show_color=79ff97&text_color=9f9f9f&bg_color=151515)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmanEbtekari&hide_border=true&show_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!--
 **ArmanEbtekari/ArmanEbtekari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 use IgraalOSL\StatsTable\StatsTableBuilder;
-Here are some ideas to get you started:
+Here are some ideas to get you started
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
